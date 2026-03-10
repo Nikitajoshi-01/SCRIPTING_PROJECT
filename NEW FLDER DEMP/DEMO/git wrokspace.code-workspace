@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "SCRIPTING_PROJECT",
+			"path": "../.."
+		},
+		{
+			"name": "lab",
+			"path": "../../../lab"
+		}
+	],
+	"settings": {}
+}
